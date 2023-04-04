@@ -1,0 +1,15 @@
+.navbar {
+  background-color: blueviolet;
+  text-align: center;
+  padding: 40px 20px;
+}
+.navbar > a {
+  color: white;
+  text-decoration: none;
+  padding: 20px;
+}
+.active {
+  background-color: red;
+  color: black !important;
+  padding: 10px 20px;
+}
